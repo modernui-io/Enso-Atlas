@@ -85,10 +85,9 @@ htmlcov/
 .mypy_cache/
 
 # Environment files (may contain secrets)
-.env
-.env.local
 .env*.local
 
 # Build artifacts
 *.whl
 *.tar.gz
+config.bat
